@@ -1,8 +1,5 @@
-
 // todo JSON Object
-let todoList = [
-    // {item: 'Monish' , dueDate: '10/02/2005' } , {item : 'Tanvi' , dueDate: '10/12/1999'}
-];
+let todoList = [];
 
 // function to add task in todo list
 function addTodo(){
